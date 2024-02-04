@@ -1,5 +1,6 @@
 sa:sa
 sa:admin
+sa:P4ssw0rd
 sa:superadmin
 sa:password
 sa:default
